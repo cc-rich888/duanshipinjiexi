@@ -12,7 +12,7 @@
 # 短视频去水印解析
 打开微信扫描下面二维码即可打开小程序
 
-![Image text]https://github.com/cc-rich888/duanshipinjiexi/blob/main/xiaochengxu.jpg
+![Image text](https://github.com/cc-rich888/duanshipinjiexi/blob/main/xiaochengxu.jpg)
 
 # 由于小程序有下载文件大小限制，若不能成功下载，可复制链接到浏览器下载
 # 本项目仅做为技术交流，图片以及视频版权归原平台和作者所有，请不要用于获利，否则后果自负。
