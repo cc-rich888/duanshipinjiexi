@@ -10,7 +10,8 @@
 
 
 # 短视频去水印解析
-打开微信扫描下面二维码即可打开小程序
+# 打开微信扫描下面二维码即可打开小程序
+# 或者搜索桃色去水印小程序
 
 ![Image text](https://github.com/cc-rich888/duanshipinjiexi/blob/main/xiaochengxu.jpg)
 
